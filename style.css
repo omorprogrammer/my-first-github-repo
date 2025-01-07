@@ -1,0 +1,15 @@
+.git{
+    background-color: aqua;
+    border: 10px solid rgb(4, 176, 151);
+    margin: 20px;
+    padding: 10px;
+    text-align: justify;
+    box-shadow: 10px 10px 30px rgb(3, 88, 88);
+    border-radius: 20px;
+
+}
+.hb{
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(42, 116, 91);
+    text-align: center;
+}
